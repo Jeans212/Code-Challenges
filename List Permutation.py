@@ -16,4 +16,4 @@ def list_perm(n, r):
 #There are 6 ways 
 #
 #[[1, 2], [1, 3], [2, 1], [2, 3], [3, 1], [3, 2]]
- 
+#This solution was suggested by Anatoly Alekseev 
